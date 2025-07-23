@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server : {
     port : 1000
-  }
+  },
+  base: '/PROJECT_FE_p002'
 })
