@@ -7,5 +7,5 @@ export default defineConfig({
   server : {
     port : 1000
   },
-  base: '/PROJECT_FE_p002'
+  base: '/PROJECT_FE_p002/'
 })
